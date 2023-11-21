@@ -9,3 +9,11 @@ Utgå från `flickr-modules-exercise` - mappen och dela upp koden i moduler. Ant
 Därefter ta en valfri övning du gjort och dela upp i moduler.
 
 Grunderna i JS: https://gist.github.com/zocom-christoffer-wallenberg/245c20e7b8204ce97db4791a4c182bfc
+
+## Artiklar
+
+## Videor
+
+ES6 moduler: https://www.youtube.com/watch?v=cRHQNNcYf6s
+
+Return i funktioner: https://www.youtube.com/watch?v=FioqUnOGlq8
